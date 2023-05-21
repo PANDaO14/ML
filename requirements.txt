@@ -6,3 +6,4 @@ seaborn
 tensorflow
 category_encoders
 imblearn
+sklearn_som
